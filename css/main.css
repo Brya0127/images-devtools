@@ -1,0 +1,15 @@
+.contianer {
+  max-width: 1024px;
+  margin: 0 auto;
+
+}
+
+img {
+  width: 100%;
+
+}
+
+.avatar {
+  width: 300px;
+  border-radius: 50%;
+}
